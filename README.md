@@ -1,15 +1,27 @@
 A by C == Area Calculated by Circumference
+
 A by D == Area Calculated by Diameter
+
 A by R == Area Calculated by Radius
+
 C by A == Circumference Calculated by Area
+
 C by D == Circumference Claculated by Diameter
+
 C by R == Circumference Calculated by Radius
+
 D by A == Diameter Calculated by Area
+
 D by c == Diameter Calculated by Circumference
+
 D by R == Diameter Calculated by Radius
+
 R by A == Radius Calculated by Area
+
 R by C == Radius Calculated by Circumference
+
 R by D == Radius Calculated by Diameter
+
 
 The executables are in the "Downloads" section.
 
@@ -22,3 +34,7 @@ master program:
 	Diameter.exe
 	Circumference.exe
 	Area.exe
+
+There is also a setup program that puts the files in 
+	C:\Program Files\Circle Calculator
+and also adds a shortcut to your desktop.
